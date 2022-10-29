@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Loue_.png" width="4080" height="2080">
+  <SubTexture name="Loue_Idle0003.png" x="0" y="0"  width="429" height="512" frameX="-498" frameY="-171" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Down0002.png" x="0" y="512"  width="598" height="468" frameX="-493" frameY="-75" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Idle0007.png" x="429" y="0"  width="831" height="406" frameX="-224" frameY="-164" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Up0001.png" x="0" y="980"  width="325" height="392" frameX="-487" frameY="-151" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Up0005.png" x="0" y="1372"  width="647" height="389" frameX="-487" frameY="-154" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Up0002.png" x="325" y="980"  width="325" height="389" frameX="-487" frameY="-154" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Up0003.png" x="598" y="406"  width="325" height="387" frameX="-487" frameY="-157" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Up0004.png" x="650" y="793"  width="325" height="387" frameX="-487" frameY="-157" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Idle0006.png" x="923" y="406"  width="325" height="381" frameX="-493" frameY="-164" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Idle0008.png" x="647" y="1369"  width="325" height="381" frameX="-493" frameY="-164" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Right0004.png" x="972" y="1180"  width="325" height="380" frameX="-501" frameY="-164" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Right0005.png" x="975" y="787"  width="325" height="380" frameX="-501" frameY="-164" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Left0004.png" x="1248" y="406"  width="325" height="378" frameX="-480" frameY="-164" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Left0005.png" x="1260" y="0"  width="325" height="378" frameX="-480" frameY="-164" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Idle0001.png" x="1573" y="378"  width="325" height="377" frameX="-495" frameY="-167" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Idle0005.png" x="1585" y="0"  width="325" height="377" frameX="-495" frameY="-167" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Right0001.png" x="1573" y="755"  width="325" height="377" frameX="-506" frameY="-167" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Down0005.png" x="972" y="1560"  width="777" height="375" frameX="-36" frameY="-168" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Left0001.png" x="1297" y="1167"  width="590" height="375" frameX="-211" frameY="-167" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Left0003.png" x="1749" y="1542"  width="465" height="375" frameX="-336" frameY="-167" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Down0004.png" x="1887" y="1132"  width="325" height="375" frameX="-488" frameY="-168" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Right0002.png" x="1898" y="377"  width="680" height="374" frameX="-510" frameY="-170" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Down0001.png" x="2214" y="0"  width="326" height="374" frameX="-490" frameY="-170" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Down0003.png" x="2540" y="0"  width="326" height="374" frameX="-490" frameY="-170" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Idle0002.png" x="2866" y="0"  width="325" height="374" frameX="-497" frameY="-170" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Idle0004.png" x="1898" y="751"  width="325" height="374" frameX="-497" frameY="-170" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Loue_Left0002.png" x="2212" y="1125"  width="325" height="371" frameX="-473" frameY="-170" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
