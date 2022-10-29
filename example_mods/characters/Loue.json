@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				249,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Loue_Idle"
+		},
+		{
+			"offsets": [
+				249,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Loue_Down"
+		},
+		{
+			"offsets": [
+				249,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Loue_Up"
+		},
+		{
+			"offsets": [
+				249,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Loue_Right"
+		},
+		{
+			"offsets": [
+				249,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Loue_Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Loue_",
+	"position": [
+		-180,
+		30
+	],
+	"healthicon": "Loue823",
+	"flip_x": true,
+	"healthbar_colors": [
+		130,
+		89,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
